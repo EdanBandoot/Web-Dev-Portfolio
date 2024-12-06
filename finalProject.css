@@ -356,7 +356,7 @@ section div div .slideshowImage {
     font-weight: 200;
     font-size: 1rem;
     position: absolute;
-    bottom: 0;
+    top: 5%;
     right: 11%;
 }
 
